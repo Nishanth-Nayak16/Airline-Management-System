@@ -1,0 +1,13 @@
+.registration {
+    background: transparent;
+    width: 350px;
+    margin: 150px 0px 0px 500px;
+    color: black;
+    font-size: 18;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h3 {
+    text-align: center;
+}
